@@ -1,8 +1,8 @@
 # Learn or Die: Language Teacher
 
-**Learn Chinese, Spanish, German or Portuguese while you play Minecraft.**
+**Learn Chinese, Spanish, German, Portuguese or Japanese while you play Minecraft.**
 
-Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese), so you hear it, see it and understand it at the same time.
+Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese, 私は土を掘っています *watashi wa tsuchi o hotte imasu* in Japanese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese, romaji for Japanese), so you hear it, see it and understand it at the same time.
 
 Then she quizzes you. Answer right and you get buffs. Answer wrong and you get debuffs. Three wrong answers in a row and she gets angry and empties your inventory. In a Hardcore world, one wrong answer is game over.
 
@@ -14,20 +14,21 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-chinese-0.3.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-chinese-0.3.1+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-spanish-0.3.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-spanish-0.3.1+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-german-0.3.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-german-0.3.1+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-portuguese-0.3.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.1/learn-or-die-portuguese-0.3.1+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-chinese-0.3.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-chinese-0.3.2+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-spanish-0.3.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-spanish-0.3.2+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-german-0.3.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-german-0.3.2+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-portuguese-0.3.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-portuguese-0.3.2+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-japanese-0.3.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.2/learn-or-die-japanese-0.3.2+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
-The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese).
+The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn Japanese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-japanese).
 
 ## What's inside
 
-- **Four languages.** Mandarin Chinese, Spanish, German and Brazilian Portuguese, each in its own file. Install the ones you want and switch between them in the settings.
-- **Thousands of spoken phrases** about what you do: walking, mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (3,100+ in Chinese, 2,700+ in Spanish, 2,800+ in German, 2,700+ in Portuguese), 500+ words per language. Studio-quality voices that play offline, no account or API key.
-- **The sentence on screen** with its English translation, Chinese with characters and pinyin. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
+- **Five languages.** Mandarin Chinese, Spanish, German, Brazilian Portuguese and Japanese, each in its own file. Install the ones you want and switch between them in the settings.
+- **Thousands of spoken phrases** about what you do: walking, mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (3,100+ in Chinese, 2,700+ in Spanish, 2,800+ in German, 2,700+ in Portuguese, 2,900+ in Japanese), 500+ words per language. Studio-quality voices that play offline, no account or API key.
+- **The sentence on screen** with its English translation, Chinese with characters and pinyin, Japanese with its script and romaji. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
 - **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse.
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **An angry teacher.** Three wrong answers in a row wipe your inventory. You can turn this off.
@@ -103,7 +104,7 @@ From then on the helper starts with the game by itself and closes when you quit.
 
 - **Singleplayer.** Rewards, punishments and the angry teacher only work in singleplayer. On a server the teacher still talks and asks questions, but nothing happens to you.
 - **Client-side.** Install it in your own game only, not on a server.
-- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 60–90 MB. Only the voice answers setup downloads once.
+- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 65–95 MB. Only the voice answers setup downloads once.
 - **No punishments:** Settings → Penalty → none.
 - **Keep your inventory safe:** Settings → Advanced settings → Angry after N wrong → 0.
 - **More languages are planned.** Tell me which one you want next in the comments under my videos (links below)!
@@ -122,6 +123,6 @@ Updates, new languages and videos:
 ## Credits
 
 - Made by Laren.
-- Font: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai), SIL Open Font License 1.1.
+- Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese) and [Klee One](https://github.com/fontworks-fonts/Klee) (Japanese), SIL Open Font License 1.1.
 - Each file bundles [Fabric API](https://github.com/FabricMC/fabric) (Apache License 2.0).
 - License: [MIT](LICENSE).
