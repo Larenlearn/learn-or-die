@@ -14,12 +14,12 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-chinese-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-chinese-0.3.3+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-spanish-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-spanish-0.3.3+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-german-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-german-0.3.3+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-portuguese-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-portuguese-0.3.3+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-japanese-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-japanese-0.3.3+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-english-0.3.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.3/learn-or-die-english-0.3.3+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-chinese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-chinese-0.3.4+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-spanish-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-spanish-0.3.4+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-german-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-german-0.3.4+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-portuguese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-portuguese-0.3.4+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-japanese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-japanese-0.3.4+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-english-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-english-0.3.4+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -27,7 +27,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 
 ## What's inside
 
-- **Six languages.** English, Mandarin Chinese, Spanish, German, Brazilian Portuguese and Japanese, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, taken from your Minecraft language setting (Spanish, Portuguese, German, Chinese or Japanese).
+- **Six languages.** English, Mandarin Chinese, Spanish, German, Brazilian Portuguese and Japanese, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, Spanish, Portuguese, German, Chinese or Japanese: pick it in the settings (I → Translations) or let the mod follow your game's language; without a translation the quiz is a listening one.
 - **Thousands of spoken phrases** about what you do: walking, mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (2,700+ in English, 3,100+ in Chinese, 2,700+ in Spanish, 2,800+ in German, 2,700+ in Portuguese, 2,900+ in Japanese), 500+ words per language. Studio-quality voices that play offline, no account or API key.
 - **The sentence on screen** with its English translation, Chinese with characters and pinyin, Japanese with its script and romaji. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
 - **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse.
