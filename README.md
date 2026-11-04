@@ -14,12 +14,12 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-chinese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-chinese-0.3.4+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-spanish-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-spanish-0.3.4+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-german-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-german-0.3.4+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-portuguese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-portuguese-0.3.4+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-japanese-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-japanese-0.3.4+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-english-0.3.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.4/learn-or-die-english-0.3.4+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-chinese-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-chinese-0.3.5+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-spanish-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-spanish-0.3.5+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-german-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-german-0.3.5+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-portuguese-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-portuguese-0.3.5+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-japanese-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-japanese-0.3.5+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-english-0.3.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.3.5/learn-or-die-english-0.3.5+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -33,7 +33,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse.
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **An angry teacher.** Three wrong answers in a row wipe your inventory. You can turn this off.
-- **Hardcore.** In a Hardcore world one wrong answer kills you.
+- **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it.
 - **Progress on screen.** Learned words and deaths are counted, for each language separately. A word you got right stays quiet until you die, then everything comes back.
 - **Voice answers.** Some questions you answer by saying the phrase into your microphone. A free helper program listens on your own computer; you set it up with one click in the settings.
 - **"What is this?"** Look at a block or creature and press V to hear its name.
