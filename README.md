@@ -1,8 +1,8 @@
 # Learn or Die: Language Teacher
 
-**Learn English, Chinese, Spanish, German, Portuguese or Japanese while you play Minecraft.**
+**Learn English, Chinese, Spanish, German or Portuguese while you play Minecraft.**
 
-Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese, 私は土を掘っています *watashi wa tsuchi o hotte imasu* in Japanese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese, romaji for Japanese), so you hear it, see it and understand it at the same time.
+Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese), so you hear it, see it and understand it at the same time.
 
 Then she quizzes you. Answer right and you get buffs. Answer wrong and you get debuffs. Three wrong answers in a row and she gets angry and empties your inventory. In a Hardcore world, one wrong answer is game over.
 
@@ -18,19 +18,20 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 | Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-spanish-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-spanish-0.4.1+mc1.21.1.jar) |
 | German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-german-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-german-0.4.1+mc1.21.1.jar) |
 | Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-portuguese-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-portuguese-0.4.1+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-japanese-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-japanese-0.4.1+mc1.21.1.jar) |
 | English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-english-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-english-0.4.1+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
-The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn Japanese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-japanese), [Learn English](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-english).
+Japanese is not available for now: the Japanese teacher's pronunciation needs fixing, and the pack will be back when it sounds right.
+
+The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn English](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-english).
 
 ## What's inside
 
-- **Six languages.** English, Mandarin Chinese, Spanish, German, Brazilian Portuguese and Japanese, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, Spanish, Portuguese, German, Chinese or Japanese: pick it in the settings (I → Translations) or let the mod follow your game's language; without a translation the quiz is a listening one.
-- **Thousands of spoken phrases** about what you do: walking, mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (2,700+ in English, 3,100+ in Chinese, 2,800+ in Spanish, 2,800+ in German, 2,800+ in Portuguese, 2,900+ in Japanese), 500+ words per language. Studio-quality voices that play offline, no account or API key.
-- **Numbers the way people say them.** Pick up or hold a stack and the teacher counts it with the right grammar: 我捡到十四根木头, Ich nehme vierzehn Stück Holz, Recogí veintiún diamantes, Peguei duas maçãs, I picked up fourteen apples, 私はリンゴを14個拾いました.
-- **The sentence on screen** with its English translation, Chinese with characters and pinyin, Japanese with its script and romaji. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
+- **Five languages.** English, Mandarin Chinese, Spanish, German and Brazilian Portuguese, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, Spanish, Portuguese, German, Chinese or Japanese: pick it in the settings (I → Translations) or let the mod follow your game's language; without a translation the quiz is a listening one.
+- **Thousands of spoken phrases** about what you do: walking, mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (2,700+ in English, 3,100+ in Chinese, 2,800+ in Spanish, 2,800+ in German, 2,800+ in Portuguese), 500+ words per language. Studio-quality voices that play offline, no account or API key.
+- **Numbers the way people say them.** Pick up or hold a stack and the teacher counts it with the right grammar: 我捡到十四根木头, Ich nehme vierzehn Stück Holz, Recogí veintiún diamantes, Peguei duas maçãs, I picked up fourteen apples.
+- **The sentence on screen** with its English translation, Chinese with characters and pinyin. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
 - **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse.
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **An angry teacher.** Three wrong answers in a row wipe your inventory. You can turn this off.
@@ -129,6 +130,6 @@ Updates, new languages and videos:
 ## Credits
 
 - Made by Laren.
-- Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese) and [Klee One](https://github.com/fontworks-fonts/Klee) (Japanese), SIL Open Font License 1.1.
+- Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese), SIL Open Font License 1.1.
 - Each file bundles [Fabric API](https://github.com/FabricMC/fabric) (Apache License 2.0).
 - License: [MIT](LICENSE).
