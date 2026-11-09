@@ -14,11 +14,11 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-chinese-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-chinese-0.4.1+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-spanish-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-spanish-0.4.1+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-german-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-german-0.4.1+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-portuguese-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-portuguese-0.4.1+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-english-0.4.1+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.1/learn-or-die-english-0.4.1+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-chinese-0.4.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-chinese-0.4.2+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-spanish-0.4.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-spanish-0.4.2+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-german-0.4.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-german-0.4.2+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-portuguese-0.4.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-portuguese-0.4.2+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-english-0.4.2+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.2/learn-or-die-english-0.4.2+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -37,11 +37,12 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **An angry teacher.** Three wrong answers in a row wipe your inventory. You can turn this off.
 - **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it.
 - **Progress on screen.** Learned words and deaths are counted, for each language separately. A word you got right is learned: the teacher stops saying it in that world. In the settings you can make learned words come back after death or after an hour instead.
-- **Dictionary.** Press J to see the phrases you have learned, with pictures, readings, translations, short grammar notes and other forms of each sentence, and hear them again, normal or slow. The notes follow your game's language. Chinese and German for now.
+- **Dictionary.** Press J to see the phrases you have learned, with pictures, readings, translations, short grammar notes and other forms of each sentence, and hear them again, normal or slow. The notes follow your game's language.
 - **Voice answers.** Some questions you answer by saying the phrase into your microphone. A free helper program listens on your own computer; you set it up with one click in the settings.
 - **"What is this?"** Look at a block or creature and press V to hear its name.
 - **Item names in the language you learn** in the tooltips.
 - **Settings for everything:** speech speed, how often she talks and asks, answer time, penalties, text size and position.
+- **A short guide** the first time you enter a world: keys, how often the teacher speaks, quizzes, buffs and debuffs, voice answers. Skip it or read it again later from the settings ("How it works…").
 
 ![A quiz: pick the phrase that means "I am digging the dirt"](docs/quiz.jpg)
 
