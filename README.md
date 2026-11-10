@@ -14,12 +14,12 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-chinese-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-chinese-0.4.4+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-spanish-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-spanish-0.4.4+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-german-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-german-0.4.4+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-portuguese-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-portuguese-0.4.4+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-english-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-english-0.4.4+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-french-0.4.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.4/learn-or-die-french-0.4.4+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-chinese-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-chinese-0.4.5+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-spanish-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-spanish-0.4.5+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-german-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-german-0.4.5+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-portuguese-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-portuguese-0.4.5+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-english-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-english-0.4.5+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-french-0.4.5+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.5/learn-or-die-french-0.4.5+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -43,7 +43,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **"What is this?"** Look at a block or creature and press V to hear its name.
 - **Item names in the language you learn** in the tooltips.
 - **Settings for everything:** speech speed, how often she talks and asks, answer time, penalties, text size and position.
-- **A short guide** the first time you enter a world: keys, how often the teacher speaks, quizzes, buffs and debuffs, voice answers. Skip it or read it again later from the settings ("How it works…").
+- **A short guide** the first time you enter a world: keys, how often the teacher speaks, quizzes, buffs and debuffs, voice answers. Skip it and read it again any time: press U, or Settings → How it works….
 - **Sound off, text on.** Press M when you do not want to hear the teacher: her phrases still appear, the quizzes still come and count. What you ask for is still spoken: the name of what you look at (V), a listening question, Play in the Dictionary.
 
 ![A quiz: pick the phrase that means "I am digging the dirt"](docs/quiz.jpg)
@@ -59,6 +59,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 | V | Say the name of the block or creature you are looking at |
 | K | Normal / slow speech |
 | M | Teacher's sound off / on (the text and the quizzes stay) |
+| U | The guide: how the mod works |
 | J | Dictionary of the phrases you have learned |
 | I | Settings |
 | 1–4 or mouse | Answer a question |
