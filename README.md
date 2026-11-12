@@ -8,6 +8,10 @@ Then she quizzes you. Answer right and you get buffs. Answer wrong and you get d
 
 ![The teacher says what you do, with the English translation](docs/narration.jpg)
 
+![The same moment in every language: Chinese, Japanese, Spanish, German, French, Portuguese and English, each with its own teacher](docs/languages.jpg)
+
+*The same moment in every language, each with its own teacher: Chinese, Japanese, Spanish, German, French, Portuguese, English.*
+
 ## Download
 
 One file is the whole mod: pick your language and your Minecraft version. The same file works on Fabric and NeoForge, and Fabric API is inside.
@@ -46,6 +50,8 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Sound off, text on.** Press M when you do not want to hear the teacher: her phrases still appear, the quizzes still come and count. What you ask for is still spoken: the name of what you look at (V), a listening question, Play in the Dictionary.
 
 ![A quiz: pick the phrase that means "I am digging the dirt"](docs/quiz.jpg)
+
+![The same quiz in Japanese and in Spanish](docs/quiz-languages.jpg)
 
 ![The Dictionary (J): a learned phrase with its picture, pinyin, grammar notes and other forms](docs/dictionary.jpg)
 
