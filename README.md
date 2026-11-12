@@ -1,8 +1,8 @@
 # Learn or Die: Language Teacher
 
-**Learn English, Chinese, Spanish, German, Portuguese or French while you play Minecraft.**
+**Learn English, Chinese, Japanese, Spanish, German, Portuguese or French while you play Minecraft.**
 
-Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese, *Je creuse la terre* in French: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese), so you hear it, see it and understand it at the same time.
+Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese, *Je creuse la terre* in French, 私は土を掘っています *watashi wa tsuchi o hotte imasu* in Japanese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese, romaji for Japanese), so you hear it, see it and understand it at the same time.
 
 Then she quizzes you. Answer right and you get buffs. Answer wrong and you get debuffs. Three wrong answers in a row and she gets angry and empties your inventory. In a Hardcore world, one wrong answer is game over.
 
@@ -14,32 +14,31 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-chinese-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-chinese-0.4.6+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-spanish-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-spanish-0.4.6+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-german-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-german-0.4.6+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-portuguese-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-portuguese-0.4.6+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-english-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-english-0.4.6+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-french-0.4.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.6/learn-or-die-french-0.4.6+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-chinese-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-chinese-0.4.7+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-japanese-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-japanese-0.4.7+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-spanish-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-spanish-0.4.7+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-german-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-german-0.4.7+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-portuguese-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-portuguese-0.4.7+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-english-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-english-0.4.7+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-french-0.4.7+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.7/learn-or-die-french-0.4.7+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
-
-Japanese is not available for now: the Japanese teacher's pronunciation needs fixing, and the pack will be back when it sounds right.
 
 The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn English](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-english).
 
 ## What's inside
 
-- **Six languages.** English, Mandarin Chinese, Spanish, German, Brazilian Portuguese and French, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, Spanish, Portuguese, German, Chinese or Japanese: pick it in the settings (I → Translations) or let the mod follow your game's language; without a translation the quiz is a listening one.
-- **Thousands of spoken phrases** about what you do: mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (2,700+ in English, 3,100+ in Chinese, 2,800+ in Spanish, 2,800+ in German, 2,800+ in Portuguese, 2,600+ in French), 500+ words per language. Studio-quality voices that play offline, no account or API key.
-- **Numbers the way people say them.** Pick up or hold a stack and the teacher counts it with the right grammar: 我捡到十四根木头, Ich nehme vierzehn Stück Holz, Recogí veintiún diamantes, Peguei duas maçãs, J'ai ramassé vingt et une torches, I picked up fourteen apples.
-- **The sentence on screen** with its English translation, Chinese with characters and pinyin. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
-- **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse.
+- **Seven languages.** English, Mandarin Chinese, Japanese, Spanish, German, Brazilian Portuguese and French, each in its own file. Install the ones you want and switch between them in the settings. The English teacher shows the translation in your own language, Spanish, Portuguese, German, Chinese or Japanese: pick it in the settings (I → Translations) or let the mod follow your game's language; without a translation the quiz is a listening one.
+- **Thousands of spoken phrases** about what you do: mining, chopping trees, placing blocks, eating, fighting, sleeping, the weather and more (2,700+ in every language), 500+ words per language. Studio-quality voices that play offline, no account or API key.
+- **Numbers the way people say them.** Pick up or hold a stack and the teacher counts it with the right grammar: 我捡到十四根木头, 私は原木を14本拾いました, Ich nehme vierzehn Stück Holz, Recogí veintiún diamantes, Peguei duas maçãs, J'ai ramassé vingt et une torches, I picked up fourteen apples.
+- **The sentence on screen** with its English translation, Chinese with characters and pinyin, Japanese with its romaji. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
+- **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse. In singleplayer the world stops while you choose.
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **An angry teacher.** Three wrong answers in a row wipe your inventory. You can turn this off.
 - **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it.
 - **Progress on screen.** Learned words and deaths are counted, for each language separately. A word you got right is learned: the teacher stops saying it in that world. In the settings you can make learned words come back after death or after an hour instead.
 - **Dictionary.** Press J to see the phrases you have learned, with pictures, readings, translations, short grammar notes and other forms of each sentence, and hear them again, normal or slow. The notes follow your game's language.
-- **Voice answers.** Some questions you answer by saying the phrase into your microphone. A free helper program listens on your own computer; you set it up with one click in the settings.
+- **Voice answers.** Answer by saying the phrase into your microphone: set Quiz to speech for spoken questions only, or to mixed. A free helper program listens on your own computer; you set it up with one click in the settings.
 - **"What is this?"** Look at a block or creature and press V to hear its name.
 - **Item names in the language you learn** in the tooltips.
 - **Settings for everything:** speech speed, how often she talks and asks, what she talks about (walking and jumping only if you turn Movement on), answer time, penalties, text size and position.
@@ -116,7 +115,7 @@ From then on the helper starts with the game by itself and closes when you quit.
 
 - **Singleplayer.** Rewards, punishments and the angry teacher only work in singleplayer. On a server the teacher still talks and asks questions, but nothing happens to you.
 - **Client-side.** Install it in your own game only, not on a server.
-- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 65–95 MB. Only the voice answers setup downloads once.
+- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 80–185 MB. Only the voice answers setup downloads once.
 - **No punishments:** Settings → Penalty → none.
 - **Keep your inventory safe:** Settings → Advanced settings → Angry after N wrong → 0.
 - **More languages are planned.** Tell me which one you want next in the comments under my videos (links below)!
@@ -135,6 +134,6 @@ Updates, new languages and videos:
 ## Credits
 
 - Made by Laren.
-- Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese), SIL Open Font License 1.1.
+- Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese) and [Klee One](https://github.com/fontworks-fonts/Klee) (Japanese), SIL Open Font License 1.1.
 - Each file bundles [Fabric API](https://github.com/FabricMC/fabric) (Apache License 2.0).
 - License: [MIT](LICENSE).
