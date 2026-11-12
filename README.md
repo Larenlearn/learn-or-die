@@ -6,11 +6,9 @@ Your teacher watches what you do and says it out loud in the language you learn:
 
 Then she quizzes you. Answer right and you get buffs. Answer wrong and you get debuffs. Three wrong answers in a row and she gets angry and empties your inventory. In a Hardcore world, one wrong answer is game over.
 
-![The teacher says what you do, with the English translation](docs/narration.jpg)
+![The teacher says what you do, with the English translation: Chinese, Japanese, Spanish and English](docs/four-languages.jpg)
 
-![The same moment in every language: Chinese, Japanese, Spanish, German, French, Portuguese and English, each with its own teacher](docs/languages.jpg)
-
-*The same moment in every language, each with its own teacher: Chinese, Japanese, Spanish, German, French, Portuguese, English.*
+*Each language has its own teacher. Top: Chinese and Japanese. Bottom: Spanish and English.*
 
 ## Download
 
