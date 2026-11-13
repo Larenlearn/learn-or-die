@@ -16,13 +16,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-chinese-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-chinese-0.4.8+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-japanese-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-japanese-0.4.8+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-spanish-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-spanish-0.4.8+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-german-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-german-0.4.8+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-portuguese-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-portuguese-0.4.8+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-english-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-english-0.4.8+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-french-0.4.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.8/learn-or-die-french-0.4.8+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-chinese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-chinese-0.4.9+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-japanese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-japanese-0.4.9+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-spanish-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-spanish-0.4.9+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-german-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-german-0.4.9+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-portuguese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-portuguese-0.4.9+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-english-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-english-0.4.9+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-french-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-french-0.4.9+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
