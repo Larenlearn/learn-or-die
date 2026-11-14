@@ -16,13 +16,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-chinese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-chinese-0.4.9+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-japanese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-japanese-0.4.9+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-spanish-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-spanish-0.4.9+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-german-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-german-0.4.9+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-portuguese-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-portuguese-0.4.9+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-english-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-english-0.4.9+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-french-0.4.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.4.9/learn-or-die-french-0.4.9+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-chinese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-chinese-0.5.0+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-japanese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-japanese-0.5.0+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-spanish-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-spanish-0.5.0+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-german-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-german-0.5.0+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-portuguese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-portuguese-0.5.0+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-english-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-english-0.5.0+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-french-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-french-0.5.0+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -140,4 +140,4 @@ Updates, new languages and videos:
 - Made by Laren.
 - Fonts: [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) (Chinese) and [Klee One](https://github.com/fontworks-fonts/Klee) (Japanese), SIL Open Font License 1.1.
 - Each file bundles [Fabric API](https://github.com/FabricMC/fabric) (Apache License 2.0).
-- License: [MIT](LICENSE).
+- License: all rights reserved, see [LICENSE](LICENSE). Versions up to 0.4.9 were released under the MIT License.

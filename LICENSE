@@ -1,21 +1,28 @@
-MIT License
+Learn or Die: Language Teacher
+Copyright (c) 2026 Laren. All rights reserved.
 
-Copyright (c) 2026 Laren
+This license covers every version of Learn or Die after 0.4.9: the mod, its language packs and everything in them
+(code, voice recordings, pictures, texts, word lists). Versions up to 0.4.9 were released under the MIT License.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may:
+- download the mod from its official pages (github.com/Larenlearn/learn-or-die, CurseForge, Modrinth) and play
+  with it for free;
+- put the unmodified mod into a modpack that is free to download, as long as the modpack credits Learn or Die and
+  links to one of its official pages;
+- record videos, streams and screenshots with the mod, including ones you earn money from.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may not, unless the author allows it in writing:
+- upload the mod files, or any file from inside them, anywhere else;
+- change the mod, or use its code, voice recordings, pictures, texts or word lists in another project;
+- sell the mod or any part of it, or ask for money to download or use it, for example in a paid modpack or behind
+  a paywall.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+To ask for permission, open an issue at https://github.com/Larenlearn/learn-or-die/issues.
+
+Parts made by others keep their own licenses: the fonts LXGW WenKai and Klee One (SIL Open Font License 1.1) and
+Fabric API (Apache License 2.0). See the licenses folder inside the mod.
+
+The mod is provided "as is", without warranty of any kind. The author is not liable for any damage or loss that
+comes from using it.
+
+Learn or Die is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft.
