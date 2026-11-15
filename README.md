@@ -16,13 +16,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-chinese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-chinese-0.5.0+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-japanese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-japanese-0.5.0+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-spanish-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-spanish-0.5.0+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-german-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-german-0.5.0+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-portuguese-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-portuguese-0.5.0+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-english-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-english-0.5.0+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-french-0.5.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.5.0/learn-or-die-french-0.5.0+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-chinese-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-chinese-0.6.0+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-japanese-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-japanese-0.6.0+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-spanish-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-spanish-0.6.0+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-german-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-german-0.6.0+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-portuguese-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-portuguese-0.6.0+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-english-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-english-0.6.0+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-french-0.6.0+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.0/learn-or-die-french-0.6.0+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -35,6 +35,8 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Numbers the way people say them.** Pick up or hold a stack and the teacher counts it with the right grammar: 我捡到十四根木头, 私は原木を14本拾いました, Ich nehme vierzehn Stück Holz, Recogí veintiún diamantes, Peguei duas maçãs, J'ai ramassé vingt et une torches, I picked up fourteen apples.
 - **The sentence on screen** with its English translation, Chinese with characters and pinyin, Japanese with its romaji. Words are coloured by their role in the sentence: pronoun, verb, object. Hold Right Shift to show pinyin.
 - **Quizzes** about phrases the teacher has already said. Four answers in the language you learn: pick one with the keys 1–4 or the mouse. In singleplayer the world stops while you choose.
+- **Typed answers.** Set Quiz to typing and write the phrase on your keyboard. Missing accents and small typos are forgiven, and the right spelling is shown; a different word is not. Chinese in characters or pinyin (tones optional, but right if you type them), Japanese in kanji, kana or romaji.
+- **An exam.** Every 20 minutes of play the teacher asks the phrases that came up most, up to 20 questions one after another, and shows your score with every answer. Buttons and typing by default, voice if you want it, no penalties unless you switch them on. Start one any time or switch it off in Settings → Exam….
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **An angry teacher.** Five wrong answers in a row and she throws everything you carry on the ground, armour too. She can take it all for good instead, or never get angry: your choice.
 - **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it.
