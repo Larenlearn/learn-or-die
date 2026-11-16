@@ -45,7 +45,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Voice answers.** Answer by saying the phrase into your microphone: set Quiz to speech for spoken questions only, or to mixed. A free helper program listens on your own computer; you set it up with one click in the settings.
 - **"What is this?"** Look at a block or creature and press V to hear its name.
 - **Item names in the language you learn** in the tooltips.
-- **Settings for everything:** speech speed, how often she talks and asks, what she talks about (walking and jumping only if you turn Movement on), answer time, penalties, text size and position.
+- **Settings for everything:** speech speed, how often she talks and asks, what she talks about (walking and jumping only if you turn Movement on), answer time, penalties, text size and position. Every setting is explained in [Settings, explained](docs/settings.md).
 - **A short guide** the first time you enter a world: keys, how often the teacher speaks, quizzes, buffs and debuffs, the angry teacher, voice answers. Skip it and read it again any time: press U, or Settings → How it works….
 - **Sound off, text on.** Press M when you do not want to hear the teacher: her phrases still appear, the quizzes still come and count. What you ask for is still spoken: the name of what you look at (V), a listening question, Play in the Dictionary.
 
