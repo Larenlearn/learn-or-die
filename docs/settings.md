@@ -3,13 +3,14 @@
 Press **I** in the game to open the settings. (On NeoForge they also open from the Mods screen, on Fabric from Mod Menu.)
 Every setting is saved as soon as you change it. The value in **bold** is the default.
 
-New to the mod? Start with [the three settings most players change](#the-three-settings-most-players-change).
+New to the mod? Start with [the four settings most players change](#the-four-settings-most-players-change).
 
-## The three settings most players change
+## The four settings most players change
 
 1. **Question every** — how often the teacher quizzes you. The default is every 60 seconds. If the questions get in your way, raise it to 120 or 180. If you want more practice, lower it to 15 or 30.
 2. **Penalty** — what a wrong answer costs. The default is two bad effects for a while. Choose *none* to learn in peace, or *hardcore* if one mistake should kill you.
 3. **Quiz** — how you answer: with buttons, on the keyboard, or with your voice.
+4. **Same phrase again** — if the teacher repeats the same phrase too often while you mine or build, set it to 30 s or 1 min.
 
 ## Main page
 
@@ -23,11 +24,11 @@ New to the mod? Start with [the three settings most players change](#the-three-s
 | **Volume** | How loud the teacher is. | 0–100 %, **100 %** |
 | **Sound** | OFF: you do not hear the teacher, but her text still appears and the questions still come. What you ask for is still spoken: the name of what you look at (**V**), a listening question, *Play* in the Dictionary. The key **M** does the same. | **ON**, OFF |
 | **Repeat every** | While you keep doing the same thing (you hold the button and keep mining), the teacher says its phrase again this often. *Never*: she says it once when you start. | **never**, 3 s … 60 s |
-| **Same phrase again** *(from 0.6.1)* | How soon the teacher may say a phrase she has already said. *At once*: every time you start the action again. *1 min*: you mine cobblestone all the time, and she says it once a minute at most. A phrase you hear for the first time is never held back. | **at once**, 10 s, 30 s, 1 min, 5 min |
+| **Same phrase again** *(from 0.6.1)* | How soon the teacher may say a phrase she has already said. *At once*: every time you start the action again. *10 s*: you mine cobblestone all the time, and she says it once in 10 seconds at most. A phrase you hear for the first time is never held back. If she repeats herself too much, set 30 s or 1 min. | at once, **10 s**, 30 s, 1 min, 5 min |
 | **Text size** | Size of the teacher's text on the screen. | 1×–3×, **2×** |
 | **Pinyin** (Chinese, Japanese) | Shows how the words are read above them. With it off, hold **Right Shift** to see the reading for a moment. | **ON**, OFF |
 | **English** | Shows the translation under each line. | **ON**, OFF |
-| **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone. *mixed*: choice and speech. *off*: no questions. | **choice**, typing, speech, mixed, off |
+| **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone. *mixed*: all three by turns (from 0.6.1; before it, choice and speech). *off*: no questions. | **choice**, typing, speech, mixed, off |
 | **Penalty** | What a wrong answer costs. *none*: nothing. *debuff*: two bad effects for a while. *hearts*: you lose a heart for good; ten mistakes and you die. *hardcore*: one mistake and you die. | none, **debuff**, hearts, hardcore |
 | **Question every** | Time between two questions. A question with buttons waits until you stop mining, fighting or eating. | 15–300 s, **60 s** |
 | **Answer time** | Seconds you have to answer. Running out of time counts as a wrong answer. | 5–30 s, **12 s** |
@@ -76,7 +77,6 @@ The exam asks the phrases that came up most: up to 20 questions, one right after
 | **Pause on question** | Pauses the game while a question with buttons is open (singleplayer only). Spoken questions never pause. | **ON**, OFF |
 | **Angry teacher** | What the teacher does after too many wrong answers in a row. *drops all*: everything you carry falls on the ground, armour too; pick it up again. *takes all*: it is gone for good. *off*: she never gets angry. | **drops all**, takes all, off |
 | **Angry after N wrong** | How many wrong answers in a row make her angry. | 1–10, **5** |
-| **Pictures in questions** | Shows the item, block or creature next to a question about it. | **ON**, OFF |
 | **Question timer** | Shows "Next question in N s" under the counter. | **ON**, OFF |
 | **Jingle** | The sound when a phrase becomes learned. | **xp**, fanfare, soft, off |
 | **Translation in tooltips** | Adds the word in the language you learn to the item tooltips in your inventory. | **ON**, OFF |
