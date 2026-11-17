@@ -2,6 +2,8 @@
 
 **Learn English, Chinese, Japanese, Spanish, German, Portuguese or French while you play Minecraft.**
 
+Website: **[learnordie.me](https://learnordie.me)**
+
 Your teacher watches what you do and says it out loud in the language you learn: 我在挖泥土 *wǒ zài wā ní tǔ* in Chinese, *Estoy cavando la tierra* in Spanish, *Ich grabe die Erde* in German, *Estou cavando a terra* in Portuguese, *Je creuse la terre* in French, 私は土を掘っています *watashi wa tsuchi o hotte imasu* in Japanese: "I am digging the dirt". The sentence shows up on screen with English (and pinyin for Chinese, romaji for Japanese), so you hear it, see it and understand it at the same time.
 
 Then she quizzes you. Answer right and you get buffs. Answer wrong and you get debuffs. Five wrong answers in a row and she gets angry and throws everything you carry on the ground. In a Hardcore world, one wrong answer is game over.
@@ -132,6 +134,7 @@ From then on the helper starts with the game by itself and closes when you quit.
 
 Updates, new languages and videos:
 
+- [Website](https://learnordie.me)
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/learn-or-die)
 - [YouTube](https://www.youtube.com/@LadenBed90)
 - [TikTok](https://www.tiktok.com/@laden_bed)
