@@ -138,7 +138,7 @@ Updates, new languages and videos:
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/learn-or-die)
 - [YouTube](https://www.youtube.com/@LadenBed90)
 - [TikTok](https://www.tiktok.com/@laden_bed)
-- [Instagram](https://www.instagram.com/laden_bed/)
+- [Instagram](https://www.instagram.com/laren_bed/)
 - [X (Twitter)](https://x.com/LadenBed94)
 
 ## Credits
