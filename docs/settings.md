@@ -8,7 +8,7 @@ New to the mod? Start with [the four settings most players change](#the-four-set
 ## The four settings most players change
 
 1. **Question every** — how often the teacher quizzes you. The default is every 60 seconds. If the questions get in your way, raise it to 120 or 180. If you want more practice, lower it to 15 or 30.
-2. **Penalty** — what a wrong answer costs. The default is two bad effects for a while. Choose *none* to learn in peace, or *hardcore* if one mistake should kill you.
+2. **Penalty** — what a wrong answer costs. The default is two bad effects for a while. Choose *none* to learn in peace, *mobs* for five monsters around you after every mistake, or *hardcore* if one mistake should kill you.
 3. **Quiz** — how you answer: with buttons, on the keyboard, or with your voice.
 4. **Same phrase again** — if the teacher repeats the same phrase too often while you mine or build, set it to 30 s or 1 min.
 
@@ -29,7 +29,7 @@ New to the mod? Start with [the four settings most players change](#the-four-set
 | **Pinyin** (Chinese, Japanese) | Shows how the words are read above them. With it off, hold **Right Shift** to see the reading for a moment. | **ON**, OFF |
 | **English** | Shows the translation under each line. | **ON**, OFF |
 | **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone. *mixed*: all three by turns (from 0.6.1; before it, choice and speech). *off*: no questions. | **choice**, typing, speech, mixed, off |
-| **Penalty** | What a wrong answer costs. *none*: nothing. *debuff*: two bad effects for a while. *hearts*: you lose a heart for good; ten mistakes and you die. *hardcore*: one mistake and you die. | none, **debuff**, hearts, hardcore |
+| **Penalty** | What a wrong answer costs. *none*: nothing. *debuff*: two bad effects for a while. *mobs*: five random hostile mobs appear around you (any but the Ender Dragon), and a right answer brings five friendly ones instead of good effects. *hearts*: you lose a heart for good; ten mistakes and you die. *hardcore*: one mistake and you die. | none, **debuff**, mobs, hearts, hardcore |
 | **Question every** | Time between two questions. A question with buttons waits until you stop mining, fighting or eating. | 15–300 s, **60 s** |
 | **Answer time** | Seconds you have to answer. Running out of time counts as a wrong answer. | 5–30 s, **12 s** |
 | **Speech strictness** | How exact a spoken answer must be. *0.5*: half of the sounds right. *1*: every sound right. The new word of the phrase (usually the last one) must always be at least half right. | 0.5–1, **0.5** |
@@ -73,7 +73,7 @@ The exam asks the phrases that came up most: up to 20 questions, one right after
 | **Score size** | Size of that counter. | 0.5×–3×, **1×** |
 | **Position** | The teacher's text at the bottom (above the hotbar) or at the top of the screen. | **bottom**, top |
 | **Learned words** | A phrase you answered right is learned. *forever*: the teacher never says or asks it again in this world. *until death*: it comes back after you die. *back in 60 min*: it comes back after an hour. | **forever**, until death, back in 60 min |
-| **Rewards** | Good effects (speed, regeneration, jump boost, haste) for a right answer. | **ON**, OFF |
+| **Rewards** | Good effects (speed, regeneration, jump boost, haste) for a right answer; with Penalty *mobs*, five friendly mobs instead. | **ON**, OFF |
 | **Pause on question** | Pauses the game while a question with buttons is open (singleplayer only). Spoken questions never pause. | **ON**, OFF |
 | **Angry teacher** | What the teacher does after too many wrong answers in a row. *drops all*: everything you carry falls on the ground, armour too; pick it up again. *takes all*: it is gone for good. *off*: she never gets angry. | **drops all**, takes all, off |
 | **Angry after N wrong** | How many wrong answers in a row make her angry. | 1–10, **5** |
