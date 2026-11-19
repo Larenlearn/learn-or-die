@@ -9,7 +9,7 @@ New to the mod? Start with [the four settings most players change](#the-four-set
 
 1. **Question every** — how often the teacher quizzes you. The default is every 60 seconds. If the questions get in your way, raise it to 120 or 180. If you want more practice, lower it to 15 or 30.
 2. **Penalty** — what a wrong answer costs. The default is two bad effects for a while. Choose *none* to learn in peace, *mobs* for five monsters around you after every mistake, or *hardcore* if one mistake should kill you.
-3. **Quiz** — how you answer: with buttons, on the keyboard, or with your voice.
+3. **Quiz** — how you answer: with buttons, on the keyboard, with your voice, or by drawing the characters (Chinese and Japanese).
 4. **Same phrase again** — if the teacher repeats the same phrase too often while you mine or build, set it to 30 s or 1 min.
 
 ## Main page
@@ -28,15 +28,17 @@ New to the mod? Start with [the four settings most players change](#the-four-set
 | **Text size** | Size of the teacher's text on the screen. | 1×–3×, **2×** |
 | **Pinyin** (Chinese, Japanese) | Shows how the words are read above them. With it off, hold **Right Shift** to see the reading for a moment. | **ON**, OFF |
 | **English** | Shows the translation under each line. | **ON**, OFF |
-| **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone. *mixed*: all three by turns (from 0.6.1; before it, choice and speech). *off*: no questions. | **choice**, typing, speech, mixed, off |
+| **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone (hidden when Microphone is OFF). *drawing* (Chinese and Japanese, from 0.6.3): draw the word with the mouse, stroke by stroke; *Skip (no penalty)* and *Show result* under the paper. *mixed*: all of them by turns (from 0.6.1; before it, choice and speech). *off*: no questions. | **choice**, typing, speech, drawing, mixed, off |
 | **Penalty** | What a wrong answer costs. *none*: nothing. *debuff*: two bad effects for a while. *mobs*: five random hostile mobs appear around you (any but the Ender Dragon), and a right answer brings five friendly ones instead of good effects. *hearts*: you lose a heart for good; ten mistakes and you die. *hardcore*: one mistake and you die. | none, **debuff**, mobs, hearts, hardcore |
 | **Question every** | Time between two questions. A question with buttons waits until you stop mining, fighting or eating. | 15–300 s, **60 s** |
 | **Answer time** | Seconds you have to answer. Running out of time counts as a wrong answer. | 5–30 s, **12 s** |
+| **Microphone** | Do you have a microphone? Your first world asks once. *OFF*: no spoken questions, the voice settings below are hidden, and the voice helper never starts. Turn it ON to bring them back. | **ON**, OFF |
 | **Speech strictness** | How exact a spoken answer must be. *0.5*: half of the sounds right. *1*: every sound right. The new word of the phrase (usually the last one) must always be at least half right. | 0.5–1, **0.5** |
 | **Voice answers** | Sets up and starts the helper program that listens to your microphone. See [Voice answers](#voice-answers). | |
 | **Exam…** | Opens the exam page. The button shows whether the exam is on. | |
 | **Advanced settings…** | Opens the second page. | |
 | **How it works…** | The short guide from your first world. The key **U** opens it too. | |
+| **Report a problem…** | Something does not work? The mod uploads a report to mclo.gs (the game log, the voice helper's log, the newest crash report, your settings, the versions, your mods; your player name and your computer's user name replaced) and copies the link. Paste it in #bug-reports on [our Discord](https://discord.gg/Sr5YVZEyk3). If the upload fails, the report is saved in `.minecraft/learn-or-die/reports`: attach that file. | |
 
 ## Typed answers (Quiz: typing)
 
@@ -57,7 +59,8 @@ The exam asks the phrases that came up most: up to 20 questions, one right after
 | **Exam every** | Minutes of play between two exams. Time in menus does not count. | 5–60 min, **20 min** |
 | **Buttons** | Exam questions where you pick one of four answers. | **ON**, OFF |
 | **Typing** | Exam questions where you type the phrase. | **ON**, OFF |
-| **Voice** | Exam questions you answer into the microphone. Needs voice answers. | ON, **OFF** |
+| **Voice** | Exam questions you answer into the microphone. Needs voice answers; hidden when Microphone is OFF. | ON, **OFF** |
+| **Drawing** | Exam questions where you draw the word (Chinese and Japanese). | ON, **OFF** |
 | **Exam penalties** | OFF: the exam only keeps the score. ON: a wrong answer is punished like in a usual question. | ON, **OFF** |
 | **Start the exam** | Starts the questions now, about the phrases that came up most in this world. | |
 
@@ -101,7 +104,7 @@ Switch whole groups of phrases on or off.
 
 ## Voice answers
 
-1. Open the settings (**I**) and press **Voice answers: set up…**, then **Yes**.
+1. Open the settings (**I**). If **Microphone** is OFF, turn it ON. Press **Voice answers: set up…**, then **Yes**.
 2. A helper window opens and downloads what it needs. Keep the window open.
 3. When the chat says the voice answers are ready, set **Quiz** to *speech* or *mixed*. When a spoken question appears, hold **B** and say the phrase.
 
