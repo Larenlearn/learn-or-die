@@ -18,13 +18,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-chinese-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-chinese-0.6.3+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-japanese-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-japanese-0.6.3+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-spanish-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-spanish-0.6.3+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-german-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-german-0.6.3+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-portuguese-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-portuguese-0.6.3+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-english-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-english-0.6.3+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-french-0.6.3+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.3/learn-or-die-french-0.6.3+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-chinese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-chinese-0.6.4+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-japanese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-japanese-0.6.4+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-spanish-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-spanish-0.6.4+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-german-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-german-0.6.4+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-portuguese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-portuguese-0.6.4+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-english-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-english-0.6.4+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-french-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-french-0.6.4+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -47,7 +47,7 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Progress on screen.** Learned words and deaths are counted, for each language separately. A word you got right is learned: the teacher stops saying it in that world. In the settings you can make learned words come back after death or after an hour instead.
 - **Dictionary.** Press J to see the phrases you have learned, with pictures, readings, translations, short grammar notes and other forms of each sentence, and hear them again, normal or slow. The notes follow your game's language.
 - **Voice answers.** Answer by saying the phrase into your microphone: set Quiz to speech for spoken questions only, or to mixed. A free helper program listens on your own computer; you set it up with one click in the settings.
-- **"What is this?"** Look at a block or creature and press V to hear its name.
+- **"What is this?"** Look at a block or creature and press V to hear its name. In Chinese it is a whole sentence with the right measure word: 这是一头牛。 ("This is a cow."), and 那是… ("that is") for things farther than 5 blocks.
 - **Item names in the language you learn** in the tooltips.
 - **Choose your teacher's look.** The Chinese teacher comes as pixel art or as a drawing by the artist Linnle210: Settings → Teacher's look.
 - **Settings for everything:** speech speed, how often she talks and asks, how soon she may repeat a phrase (Same phrase again), what she talks about (walking and jumping only if you turn Movement on), answer time, penalties, text size and position. Every setting is explained in [Settings, explained](docs/settings.md).
