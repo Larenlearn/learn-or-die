@@ -18,13 +18,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-chinese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-chinese-0.6.4+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-japanese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-japanese-0.6.4+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-spanish-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-spanish-0.6.4+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-german-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-german-0.6.4+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-portuguese-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-portuguese-0.6.4+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-english-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-english-0.6.4+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-french-0.6.4+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.4/learn-or-die-french-0.6.4+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-chinese-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-chinese-0.6.6+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-japanese-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-japanese-0.6.6+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-spanish-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-spanish-0.6.6+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-german-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-german-0.6.6+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-portuguese-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-portuguese-0.6.6+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-english-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-english-0.6.6+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-french-0.6.6+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.6/learn-or-die-french-0.6.6+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -113,9 +113,9 @@ From then on the helper starts with the game by itself and closes when you quit.
 **Switching languages.** Every language has its own speech model. The first time you choose a language, its model downloads once (about 1.2 GB, a minute or two). After that, switching takes 10–15 seconds while the model loads. You see how far it is in the top left corner; spoken questions come back when it is ready.
 
 - **Private.** Your voice is recognised on your computer and never leaves it.
-- **Systems:** Windows 10 or 11 (64-bit), Linux, or a Mac with Apple Silicon and macOS 14 or newer. About 3 GB of free disk space, plus 1.3 GB for each more language; 8 GB of RAM recommended.
+- **Systems:** Windows 10 or 11 (64-bit), Linux, or a Mac: Apple Silicon with macOS 14 or newer, or an Intel processor with macOS 11 or newer (experimental: slower, tested only in emulation). About 3 GB of free disk space, plus 1.3 GB for each more language; 8 GB of RAM recommended.
 - **Mac:** allow Terminal to use the microphone when macOS asks.
-- **Windows:** if the helper window shows an error about a missing DLL, install the Microsoft Visual C++ Redistributable (x64).
+- **Windows:** the helper brings Microsoft's Visual C++ libraries itself. If its window still shows an error about a DLL, install the [Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe) and restart the computer.
 - **Linux:** the helper needs PortAudio, for example `sudo apt install libportaudio2`.
 - **Uninstall:** delete the `learn-or-die` folder inside your `.minecraft` folder.
 - **Beta.** Voice answers are new. If the helper does not start on your computer, please [open an issue](https://github.com/Larenlearn/learn-or-die/issues).
