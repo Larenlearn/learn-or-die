@@ -26,11 +26,11 @@ New to the mod? Start with [the four settings most players change](#the-four-set
 | **Repeat every** | While you keep doing the same thing (you hold the button and keep mining), the teacher says its phrase again this often. *Never*: she says it once when you start. | **never**, 3 s … 60 s |
 | **Same phrase again** *(from 0.6.1)* | How soon the teacher may say a phrase she has already said. *At once*: every time you start the action again. *10 s*: you mine cobblestone all the time, and she says it once in 10 seconds at most. A phrase you hear for the first time is never held back. If she repeats herself too much, set 30 s or 1 min. | at once, **10 s**, 30 s, 1 min, 5 min |
 | **Text size** | Size of the teacher's text on the screen. | 1×–3×, **2×** |
-| **Pinyin** (Chinese, Japanese) | Shows how the words are read above them. With it off, hold **Right Shift** to see the reading for a moment. | **ON**, OFF |
+| **Pinyin** (Chinese, Japanese) | Shows how the words are read above them. OFF hides the readings everywhere: in the teacher's text, under the answers of a question, in the chat, the exam result, the tooltips and the dictionary. With it off, hold **Right Shift** to see the reading for a moment. | **ON**, OFF |
 | **English** | Shows the translation under each line. | **ON**, OFF |
 | **Quiz** | How the teacher tests you. *choice*: pick one of four answers (keys 1–4 or the mouse). *typing*: type the phrase. *speech*: say it into the microphone (hidden when Microphone is OFF). *drawing* (Chinese and Japanese, from 0.6.3): draw the word with the mouse, stroke by stroke; *Skip (no penalty)* and *Show result* under the paper. *mixed*: all of them by turns (from 0.6.1; before it, choice and speech). *off*: no questions. | **choice**, typing, speech, drawing, mixed, off |
 | **Penalty** | What a wrong answer costs. *none*: nothing. *debuff*: two bad effects for a while. *mobs*: five random hostile mobs appear around you (any but the Ender Dragon), and a right answer brings five friendly ones instead of good effects. *hearts*: you lose a heart for good; ten mistakes and you die. *hardcore*: one mistake and you die. | none, **debuff**, mobs, hearts, hardcore |
-| **Question every** | Time between two questions. A question with buttons waits until you stop mining, fighting or eating. | 15–300 s, **60 s** |
+| **Question every** | Time between two questions. A question with buttons waits until you stop mining, fighting or eating. When you change it, the time to the next question starts over. | 15–300 s, **60 s** |
 | **Answer time** | Seconds you have to answer. Running out of time counts as a wrong answer. | 5–30 s, **12 s** |
 | **Microphone** | Do you have a microphone? Your first world asks once. *OFF*: no spoken questions, the voice settings below are hidden, and the voice helper never starts. Turn it ON to bring them back. | **ON**, OFF |
 | **Speech strictness** | How exact a spoken answer must be. *0.5*: half of the sounds right. *1*: every sound right. The new word of the phrase (usually the last one) must always be at least half right. | 0.5–1, **0.5** |
@@ -80,6 +80,8 @@ The exam asks the phrases that came up most: up to 20 questions, one right after
 | **Pause on question** | Pauses the game while a question with buttons is open (singleplayer only). Spoken questions never pause. | **ON**, OFF |
 | **Angry teacher** | What the teacher does after too many wrong answers in a row. *drops all*: everything you carry falls on the ground, armour too; pick it up again. *takes all*: it is gone for good. *off*: she never gets angry. | **drops all**, takes all, off |
 | **Angry after N wrong** | How many wrong answers in a row make her angry. | 1–10, **5** |
+| **Hardcore worlds: a mistake kills** | ON: in a Hardcore world one wrong answer kills you, whatever Penalty is set to. OFF: Hardcore worlds use your Penalty like every other world. | **ON**, OFF |
+| **Update notice** | Tells you in the chat when a new version is out. It asks learnordie.me once per game; nothing is downloaded. | **ON**, OFF |
 | **Question timer** | Shows "Next question in N s" under the counter. | **ON**, OFF |
 | **Jingle** | The sound when a phrase becomes learned. | **xp**, fanfare, soft, off |
 | **Translation in tooltips** | Adds the word in the language you learn to the item tooltips in your inventory. | **ON**, OFF |
@@ -89,18 +91,22 @@ The exam asks the phrases that came up most: up to 20 questions, one right after
 
 ## What the teacher talks about
 
-Switch whole groups of phrases on or off.
+Switch kinds of phrases on or off. When you do many things at once, the teacher finishes the phrase she is saying and then says only the newest one.
 
 | Group | Phrases | Default |
 |---|---|---|
+| **I picked up…** | "I picked up the apple." when something goes into your inventory. | ON |
+| **I dropped…** | "I dropped the apple." when you throw something out of your inventory. | ON |
+| **I am mining…** | Breaking stone, ore, dirt, sand, glass, wool and every other block that is not a tree or a plant. | ON |
+| **I am cutting…** | Breaking trees and plants: chopping a tree, cutting grass, picking flowers, harvesting wheat. | ON |
+| **I am placing…** | "I am placing the stone." when you put a block down. | ON |
+| **Actions** | Fishing, sleeping, eating, drinking, feeding animals, opening doors and chests, using a crafting table or a furnace. | ON |
 | **Movement** | Walking, running, sneaking, swimming, flying, climbing, jumping, riding. | OFF |
-| **Combat** | Hitting, killing, being hurt, falling, burning. | ON |
-| **Blocks** | Breaking, placing, opening and using blocks. | ON |
-| **Items** | Holding, picking up, dropping, eating and drinking items. | ON |
-| **World** | Day and night, weather, hot and cold places, dimensions, hunger, sleep, fishing. | ON |
 | **Held item** | The name of the item you switch to in your hotbar. | ON |
+| **Combat** | Hitting, killing, being hurt, falling, burning. | ON |
 | **Kills** | "I killed the …" when a creature you hit dies. | ON |
 | **Damage** | "Ouch!" when you are hurt, and "I died". | ON |
+| **World** | Day and night, weather, hot and cold places, the Nether and the End, hunger. | ON |
 
 ## Voice answers
 

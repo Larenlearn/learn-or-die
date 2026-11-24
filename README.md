@@ -18,13 +18,13 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 | Language | Minecraft 26.3 | Minecraft 1.21.1 |
 |---|---|---|
-| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-chinese-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-chinese-0.6.8+mc1.21.1.jar) |
-| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-japanese-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-japanese-0.6.8+mc1.21.1.jar) |
-| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-spanish-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-spanish-0.6.8+mc1.21.1.jar) |
-| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-german-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-german-0.6.8+mc1.21.1.jar) |
-| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-portuguese-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-portuguese-0.6.8+mc1.21.1.jar) |
-| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-english-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-english-0.6.8+mc1.21.1.jar) |
-| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-french-0.6.8+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.8/learn-or-die-french-0.6.8+mc1.21.1.jar) |
+| Chinese (Mandarin) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-chinese-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-chinese-0.6.9+mc1.21.1.jar) |
+| Japanese | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-japanese-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-japanese-0.6.9+mc1.21.1.jar) |
+| Spanish | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-spanish-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-spanish-0.6.9+mc1.21.1.jar) |
+| German | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-german-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-german-0.6.9+mc1.21.1.jar) |
+| Portuguese (Brazil) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-portuguese-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-portuguese-0.6.9+mc1.21.1.jar) |
+| English | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-english-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-english-0.6.9+mc1.21.1.jar) |
+| French | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-french-0.6.9+mc26.3.jar) | [Download](https://github.com/Larenlearn/learn-or-die/releases/download/v0.6.9/learn-or-die-french-0.6.9+mc1.21.1.jar) |
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
@@ -43,14 +43,14 @@ The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecr
 - **Rewards and punishments.** Regeneration, speed, haste, strength... or slowness, blindness, nausea, poison...
 - **Monsters for a wrong answer.** Set Penalty to *mobs* and every wrong answer brings five random hostile mobs around you, any of the game's monsters except the Ender Dragon: the Wither and the Warden too, and now and then a charged creeper. A right answer then brings five friendly mobs.
 - **An angry teacher.** Five wrong answers in a row and she throws everything you carry on the ground, armour too. She can take it all for good instead, or never get angry: your choice.
-- **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it.
+- **Hardcore.** In a Hardcore world one wrong answer kills you. With the English teacher it is the cowboy's revolver that does it. You can turn this off: Settings → Advanced settings → Hardcore worlds: a mistake kills.
 - **Progress on screen.** Learned words and deaths are counted, for each language separately. A word you got right is learned: the teacher stops saying it in that world. In the settings you can make learned words come back after death or after an hour instead.
 - **Dictionary.** Press J to see the phrases you have learned, with pictures, readings, translations, short grammar notes and other forms of each sentence, and hear them again, normal or slow. The notes follow your game's language.
 - **Voice answers.** Answer by saying the phrase into your microphone: set Quiz to speech for spoken questions only, or to mixed. A free helper program listens on your own computer; you set it up with one click in the settings.
 - **"What is this?"** Look at a block or creature and press V to hear its name. In Chinese it is a whole sentence with the right measure word: 这是一头牛。 ("This is a cow."), and 那是… ("that is") for things farther than 5 blocks.
 - **Item names in the language you learn** in the tooltips.
 - **Choose your teacher's look.** The Chinese teacher comes as pixel art or as a drawing by the artist Linnle210: Settings → Teacher's look.
-- **Settings for everything:** speech speed, how often she talks and asks, how soon she may repeat a phrase (Same phrase again), what she talks about (walking and jumping only if you turn Movement on), answer time, penalties, text size and position. Every setting is explained in [Settings, explained](docs/settings.md).
+- **Settings for everything:** speech speed, how often she talks and asks, how soon she may repeat a phrase (Same phrase again), what she talks about, with a switch for each kind of phrase: I picked up…, I dropped…, I am mining…, I am cutting…, I am placing… (walking and jumping only if you turn Movement on), answer time, penalties, text size and position. Every setting is explained in [Settings, explained](docs/settings.md).
 - **A short guide** the first time you enter a world: keys, how often the teacher speaks, quizzes, buffs and debuffs, the angry teacher, voice answers. Skip it and read it again any time: press U, or Settings → How it works….
 - **Sound off, text on.** Press M when you do not want to hear the teacher: her phrases still appear, the quizzes still come and count. What you ask for is still spoken: the name of what you look at (V), a listening question, Play in the Dictionary.
 
@@ -126,7 +126,7 @@ From then on the helper starts with the game by itself and closes when you quit.
 
 - **Singleplayer.** Rewards, punishments and the angry teacher only work in singleplayer. On a server the teacher still talks and asks questions, but nothing happens to you.
 - **Client-side.** Install it in your own game only, not on a server.
-- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 80–185 MB. Only the voice answers setup downloads once.
+- **No internet needed to play.** All the teacher's speech is inside the language file, which is why each is 80–210 MB. Only the voice answers setup downloads once. Once per game the mod asks learnordie.me which version is the newest and tells you in the chat when a new one is out; nothing is downloaded, and Settings → Advanced settings → Update notice turns it off.
 - **No punishments:** Settings → Penalty → none.
 - **The angry teacher:** Settings → Advanced settings → Angry teacher: drops all (the default), takes all, or off. Angry after N wrong sets how many wrong answers in a row make her angry.
 - **More languages are planned.** Tell me which one you want next in the comments under my videos (links below)!
