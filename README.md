@@ -28,7 +28,7 @@ One file is the whole mod: pick your language and your Minecraft version. The sa
 
 Several languages can be installed together. All versions are on the [Releases](https://github.com/Larenlearn/learn-or-die/releases) page.
 
-The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn English](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-english).
+The mod is also on CurseForge: [Learn Chinese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-chinese), [Learn Japanese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-japanese), [Learn Spanish](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-spanish), [Learn German](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-german), [Learn Portuguese](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-portuguese), [Learn English](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-english), [Learn French](https://www.curseforge.com/minecraft/mc-mods/learn-or-die-french).
 
 ## What's inside
 
@@ -98,7 +98,7 @@ The `mods` folder (create it if it does not exist):
 - macOS: `~/Library/Application Support/minecraft/mods`
 - Linux: `~/.minecraft/mods`
 
-**With the CurseForge App:** create a profile with Minecraft 1.21.1 or 26.3 and the Fabric or NeoForge loader, find Learn Chinese, Learn Spanish, Learn German or Learn Portuguese in the app and add it.
+**With the CurseForge App:** create a profile with Minecraft 1.21.1 or 26.3 and the Fabric or NeoForge loader, find Learn Chinese, Learn Japanese, Learn Spanish, Learn German, Learn Portuguese, Learn English or Learn French in the app and add it.
 
 Settings: press I in the game. They also open from the mod list: on NeoForge from the built-in Mods screen, on Fabric with [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (optional). The **Language** setting switches between the installed languages.
 
