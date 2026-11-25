@@ -140,7 +140,7 @@ Updates, new languages and videos:
 - [Website](https://learnordie.me)
 - [Discord](https://discord.gg/Sr5YVZEyk3)
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/learn-or-die)
-- [YouTube](https://www.youtube.com/@LadenBed90)
+- [YouTube](https://www.youtube.com/@larenbed)
 - [TikTok](https://www.tiktok.com/@laden_bed)
 - [Instagram](https://www.instagram.com/laren_bed/)
 - [X (Twitter)](https://x.com/LadenBed94)
